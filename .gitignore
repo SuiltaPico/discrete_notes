@@ -1,0 +1,6 @@
+node_modules
+
+.vitepress/cache
+
+.obsidian/workspace.json
+.obsidian/plugins
